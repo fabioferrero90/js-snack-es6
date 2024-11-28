@@ -6,23 +6,23 @@
 let bikes = [
   {
     name: 'Ultralight',
-    weight: '2'
+    weight: 2
   },
   {
     name: 'Superlight',
-    weight: '3'
+    weight: 3
   },
   {
     name: 'Standard',
-    weight: '5'
+    weight: 5
   },
   {
     name: 'TrialBike',
-    weight: '6'
+    weight: 6
   },
   {
     name: 'FatBike',
-    weight: '8'
+    weight: 8
   }
 ]
 
